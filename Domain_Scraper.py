@@ -32,7 +32,7 @@ if __name__ == "__main__":
     base_url = add_scheme(sys.argv[1])
   
   # Read TLDs from file
-    with open("tlds.txt", "r") as file:
+    with open("Domains.txt", "r") as file:
         tlds = file.read().splitlines()
 
     for tld in tlds:
