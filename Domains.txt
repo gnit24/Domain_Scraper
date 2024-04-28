@@ -5,6 +5,8 @@
 .edu
 .info
 .biz
+.su
+.party
 .io
 .co
 .tv
