@@ -1,6 +1,7 @@
 # Domain_Scraper
 This repository contains a Python script for scraping domain URLs with various top-level domains (TLDs) and checking their status codes. It's useful for monitoring website migrations and changes in domain extensions.
 
+![Alt Text](https://media.giphy.com/media/i2xIqdC5bGZgDRzHHT/giphy.gif)
 | USAGE | Description |
 |------|-------------|
 | 1    | Clone the repository: `git clone https://github.com/gnit24/Domain_scraper.git` |
