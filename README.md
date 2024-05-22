@@ -31,7 +31,7 @@ Whether you're a website owner, developer, or curious internet user, the Domain 
 |------|-------------|
 | 1    | Clone the repository: `git clone https://github.com/gnit24/Domain_scraper.git` |
 | 2    | Navigate to the repository directory: `cd Domain_Scraper` |
-| 3    | Run the script with the URL of the website you want to scrape: `python script.py <url>` |
+| 3    | Run the script with the URL of the website you want to scrape: `python Domain_Scraper.py <url>` |
 
 &nbsp;
 &nbsp;
